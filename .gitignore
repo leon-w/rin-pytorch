@@ -1,0 +1,7 @@
+__pycache__/
+datasets/
+results/
+
+*.png
+*.pt
+*.npy
