@@ -1,0 +1,10 @@
+torch
+keras-core
+torch-optimizer
+torchvision
+diffusers
+tqdm
+accelerate
+numpy
+einops
+wandb
