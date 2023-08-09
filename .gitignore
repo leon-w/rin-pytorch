@@ -5,3 +5,5 @@ results/
 *.png
 *.pt
 *.npy
+
+!images/*.png
